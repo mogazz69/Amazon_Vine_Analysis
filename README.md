@@ -41,4 +41,3 @@ Since there is roughly the same percentage of 5 star rated reviews for vine and 
 To further delve into the topic of positivity bias, a further analysis on customer votes can be performed. In Which the ratio of "helpful_votes'” can be reviewed, as well as using "verified_purchase" as threshold. 
 
 
-this could be the day I die for you...
